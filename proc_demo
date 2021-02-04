@@ -1,0 +1,2 @@
+zip -r demos/lec$1.zip demos/lec$1
+ 
